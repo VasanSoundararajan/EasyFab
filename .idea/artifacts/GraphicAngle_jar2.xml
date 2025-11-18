@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="GraphicAngle:jar2">
-    <output-path>$PROJECT_DIR$/out/artifacts/GraphicAngle_jar2</output-path>
-    <root id="archive" name="GraphicAngle.jar">
-      <element id="module-output" name="GraphicAngle" />
-    </root>
-  </artifact>
-</component>
