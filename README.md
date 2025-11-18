@@ -77,6 +77,3 @@ MIT License. Use freely, modify, or extend.
 ## Author
 
 Vasan S
-
-```
-```
